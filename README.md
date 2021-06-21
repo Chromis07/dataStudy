@@ -1,3 +1,5 @@
+*from my Notion : https://www.notion.so/c07425a3fffa47d9a39313cc9afa5d51*
+
 # 데이터 분석 필요한 것들
 
 [https://youtu.be/oR670Txwh88](https://youtu.be/oR670Txwh88)
