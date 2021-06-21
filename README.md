@@ -19,7 +19,7 @@
 [https://www.quora.com/What-are-the-most-important-Python-skills-to-have-for-data-analysis-machine-learning](https://www.quora.com/What-are-the-most-important-Python-skills-to-have-for-data-analysis-machine-learning) <br>
 필요한 개념, 메소드
 
-- Lambda function / List comprehension
+- Lambda function / List comprehension 개인적으로라도 다시 배우자!
 - [https://www.kdnuggets.com/2019/06/python-data-science-right-way.html](https://www.kdnuggets.com/2019/06/python-data-science-right-way.html) (learn just enough)
 
 Pythonic code 
