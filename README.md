@@ -16,7 +16,7 @@
 
 ### 파이썬
 
-[https://www.quora.com/What-are-the-most-important-Python-skills-to-have-for-data-analysis-machine-learning](https://www.quora.com/What-are-the-most-important-Python-skills-to-have-for-data-analysis-machine-learning) 
+[https://www.quora.com/What-are-the-most-important-Python-skills-to-have-for-data-analysis-machine-learning](https://www.quora.com/What-are-the-most-important-Python-skills-to-have-for-data-analysis-machine-learning) <br>
 필요한 개념, 메소드
 
 - Lambda function / List comprehension
