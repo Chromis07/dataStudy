@@ -36,7 +36,7 @@
 - NumPy 수학
 - SciPy 과학기술 계산
 - Matplotlib / Seaborn / Plotly / Bokeh / Altair 시각화
-- TensorFlow 2.0, Keras 머신러닝, 딥러닝 ([http://www.yes24.com/Product/Goods/89959711](http://www.yes24.com/Product/Goods/89959711) 핸즈온 머신러닝)
+- TensorFlow 2.0, Keras 머신러닝, 딥러닝
 
 ### SQL
 
