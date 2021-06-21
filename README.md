@@ -22,13 +22,13 @@
 - Lambda function / List comprehension 개인적으로라도 다시 배우자!
 - [https://www.kdnuggets.com/2019/06/python-data-science-right-way.html](https://www.kdnuggets.com/2019/06/python-data-science-right-way.html) (learn just enough)
 
-Pythonic code 
+- Pythonic code 
 
 [https://python-guide-kr.readthedocs.io/ko/latest/writing/style.html](https://python-guide-kr.readthedocs.io/ko/latest/writing/style.html)
 
 [https://blex.me/@baealex/pythonic이란-무엇인가](https://blex.me/@baealex/pythonic%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
 
-파이썬 라이브러리
+### 파이썬 라이브러리
 
 [https://aibusiness.com/document.asp?doc_id=761060](https://aibusiness.com/document.asp?doc_id=761060)
 
