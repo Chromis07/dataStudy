@@ -15,7 +15,8 @@
 
 ### 파이썬
 
-[https://www.quora.com/What-are-the-most-important-Python-skills-to-have-for-data-analysis-machine-learning](https://www.quora.com/What-are-the-most-important-Python-skills-to-have-for-data-analysis-machine-learning) 필요한 요소들
+[https://www.quora.com/What-are-the-most-important-Python-skills-to-have-for-data-analysis-machine-learning](https://www.quora.com/What-are-the-most-important-Python-skills-to-have-for-data-analysis-machine-learning) 
+필요한 개념, 메소드
 
 - Lambda function / List comprehension
 - [https://www.kdnuggets.com/2019/06/python-data-science-right-way.html](https://www.kdnuggets.com/2019/06/python-data-science-right-way.html) (learn just enough)
