@@ -8,8 +8,7 @@
 - 데이터 분석
 - 데이터 시각화
 - 모델 설명
-
-수학! 통계!
+- 수학! 통계!
 
 [https://www.youtube.com/user/joshstarmer](https://www.youtube.com/user/joshstarmer)
 
