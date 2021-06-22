@@ -6,3 +6,4 @@ Data info
 4. subwayfee.csv : 티머니 이용안내 / 대중교통통계자료 / 19.01 기준 https://pay.tmoney.co.kr
 5. subwaytime.csv : 티머니 이용안내 / 대중교통통계자료 / 19.01 기준 https://pay.tmoney.co.kr
 6. energy.csv : Kaggle / 유클리드소프트 경기장 에너지 데이터 https://www.kaggle.com/euclidsoft/energy-data
+7. Patientinfo.csv : Kaggle / 유클리드소프트 COVID-19 https://www.kaggle.com/euclidsoft/covid19
