@@ -9,5 +9,7 @@ Data info
 7. Patientinfo.csv : Kaggle / 유클리드소프트 COVID-19 https://www.kaggle.com/euclidsoft/covid19
 8. 지역별기간별 교통량 데이터.csv : 데이터 스토어 https://www.datastore.or.kr
 9. 도로교통공단_교통사고 정보.csv : 데이터 스토어 https://www.datastore.or.kr
-10. movie_my_data.csv : 네이버 Series 영화 실시간, 일간, 주간, 월간 TOP100 크롤링 데이터 (21.06.23기준) / https://serieson.naver.com/movie/top100List.nhn?rankingTypeCode=PC_R
-11. 
+10. movie_my_data.csv : 네이버 Series 영화 실시간(R), 일간(D), 주간(W), 월간(M) TOP100 크롤링 데이터 (21.06.23기준) / https://serieson.naver.com/movie/top100List.nhn?rankingTypeCode=PC_R
+11. TASHU.csv : 타슈 (대전 공공자전거) 정거장 위치 크롤링 데이터 / https://www.tashu.or.kr/userStationAction.do?process=list
+12. 세종특별자치시_공영자전거 어울링 대여소_20200915.csv / 세종특별자치시_공영자전거 어울링 대여소 위치 데이터 / https://www.data.go.kr/data/15064617/fileData.do
+13. 
