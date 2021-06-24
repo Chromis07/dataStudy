@@ -9,3 +9,5 @@ Data info
 7. Patientinfo.csv : Kaggle / 유클리드소프트 COVID-19 https://www.kaggle.com/euclidsoft/covid19
 8. 지역별기간별 교통량 데이터.csv : 데이터 스토어 https://www.datastore.or.kr
 9. 도로교통공단_교통사고 정보.csv : 데이터 스토어 https://www.datastore.or.kr
+10. movie_my_data.csv : 네이버 Series 영화 실시간, 일간, 주간, 월간 TOP100 크롤링 데이터 (21.06.23기준) / https://serieson.naver.com/movie/top100List.nhn?rankingTypeCode=PC_R
+11. 
