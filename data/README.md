@@ -12,4 +12,5 @@ Data info
 10. movie_my_data.csv : 네이버 Series 영화 실시간(R), 일간(D), 주간(W), 월간(M) TOP100 크롤링 데이터 (21.06.23기준) / https://serieson.naver.com/movie/top100List.nhn?rankingTypeCode=PC_R
 11. TASHU.csv : 타슈 (대전 공공자전거) 정거장 위치 크롤링 데이터 / https://www.tashu.or.kr/userStationAction.do?process=list
 12. 세종특별자치시_공영자전거 어울링 대여소_20200915.csv / 세종특별자치시_공영자전거 어울링 대여소 위치 데이터 / https://www.data.go.kr/data/15064617/fileData.do
-13. 
+13. 세종특별자치시_CCTV_20210101.csv / 세종특별자치시_CCTV (2021-03-19 기준) https://www.data.go.kr/data/3037683/fileData.do
+14. 세종특별자치시_가로등정보_20190919..csv / 세종특별자치시_가로등정보 (2019-09-19 기준) / https://www.data.go.kr/data/15039315/fileData.do
