@@ -14,3 +14,4 @@ Data info
 12. 세종특별자치시_공영자전거 어울링 대여소_20200915.csv / [세종특별자치시_공영자전거 어울링 대여소 위치 데이터](https://www.data.go.kr/data/15064617/fileData.do)
 13. 세종특별자치시_CCTV_20210101.csv / [세종특별자치시_CCTV (2021-03-19 기준)](https://www.data.go.kr/data/3037683/fileData.do)
 14. 세종특별자치시_가로등정보_20190919..csv / [세종특별자치시_가로등정보 (2019-09-19 기준)](https://www.data.go.kr/data/15039315/fileData.do)
+15. Spotify Dataset 1922-2021(Version 15) / [Spotify Dataset 1922-2021, ~600k Tracks](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks)
