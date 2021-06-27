@@ -3,4 +3,4 @@ Chapter Labs codes
 <br>
 ## Machine Learning Project
 ### Analyzing World’s Covid-19 to predict Korea’s Covid-19 trends (Regression)
-[COVID-19 data source](https://sites.google.com/view/snuaric/covid-19/covid-19-data)
+[COVID-19 data source - SNUAC Asia Regional Information Center](https://sites.google.com/view/snuaric/covid-19/covid-19-data)
