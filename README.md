@@ -15,16 +15,12 @@
 [https://www.youtube.com/user/joshstarmer](https://www.youtube.com/user/joshstarmer)
 
 ### 파이썬
-
-[https://www.quora.com/What-are-the-most-important-Python-skills-to-have-for-data-analysis-machine-learning](https://www.quora.com/What-are-the-most-important-Python-skills-to-have-for-data-analysis-machine-learning) <br>
-필요한 개념, 메소드
+[필요한 개념, 메소드](https://www.quora.com/What-are-the-most-important-Python-skills-to-have-for-data-analysis-machine-learning](https://www.quora.com/What-are-the-most-important-Python-skills-to-have-for-data-analysis-machine-learning)
 
 - Lambda function / List comprehension 개인적으로라도 다시 배우자!
-- [https://www.kdnuggets.com/2019/06/python-data-science-right-way.html](https://www.kdnuggets.com/2019/06/python-data-science-right-way.html) (learn just enough)
+- [learn just enough](https://www.kdnuggets.com/2019/06/python-data-science-right-way.html)
 
-- Pythonic code 
-
-[https://python-guide-kr.readthedocs.io/ko/latest/writing/style.html](https://python-guide-kr.readthedocs.io/ko/latest/writing/style.html)
+- [Pythonic code](https://python-guide-kr.readthedocs.io/ko/latest/writing/style.html)
 
 [https://blex.me/@baealex/pythonic이란-무엇인가](https://blex.me/@baealex/pythonic%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
 
