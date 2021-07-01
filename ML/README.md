@@ -1,3 +1,5 @@
+*My notion* : https://www.notion.so/f39513ddb1d64e2fba8a5c8b1b37ba3b
+
 # 지도학습
 지도학습에는 분류, 회귀가 존재.
 
