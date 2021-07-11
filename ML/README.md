@@ -108,3 +108,27 @@ L2 norm을 사용하는 릿지를 더 사용하긴 함..
 
 alpha값을 너무 낮추면 규제가 없어져 Linear Regression이랑 다를바 없어짐
 
+
+### underfitting을 해결하려면
+
+- 변인을 많이 찾는다
+- variance가 높은 모델을 활용한다 (Decision Tree, k-NN, SVM)
+
+### overfitting이란?
+
+test error가 training error보다 훨씬 높을때!
+
+### 해결하려면?
+
+validation set을 넣는다!
+
+[[머신 러닝] 과적합 (Overfitting)과 Validation Dataset의 개념](https://untitledtblog.tistory.com/158)
+
+K-fold cross validation
+
+- 여러개의 k validation set들을 만들고 validation set으로 체크
+1. validation set으로 check
+2. validation accuracy가 낮다면, regularization 시행 or feature 줄이기(variance 낮추기)
+3. overfitting이 되지 않을 때까지 regualrization 시행
+
+[[Machine Learning] Regularization](https://mangkyu.tistory.com/37)
