@@ -31,7 +31,7 @@
 - NumPy 수학
 - SciPy 과학기술 계산
 - Matplotlib / Seaborn / Plotly / Bokeh / Altair 시각화
-- TensorFlow 2.0, Keras 머신러닝, 딥러닝
+- TensorFlow 2.3.0, Keras 머신러닝, 딥러닝
 
 ### SQL
 [sql을 공부해야하는 이유와 공부하는 방법](https://medium.com/@leejukyung/sql을-공부해야-하는-이유와-공부하는-방법-데이터분석가를-위한-기본지식-b49748e45f2b)
