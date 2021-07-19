@@ -1,5 +1,14 @@
 *My notion* : https://www.notion.so/f39513ddb1d64e2fba8a5c8b1b37ba3b
 
+## 데이터 이해하기
+
+1. 데이터의 사이즈는 ?
+ 1.1 모델 학습에 적합한 형태인가?
+2. Train/Test는 어떻게 분리되어 있는가?
+3. Missing Value는?
+4. Target Variable의 분포는?
+5. 데이터의 특이한/주목해야할 부분은?
+<br>
 # 지도학습
 지도학습에는 분류, 회귀가 존재.
 
