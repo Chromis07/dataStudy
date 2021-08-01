@@ -25,7 +25,7 @@
 
 ### 파이썬 라이브러리
 
-[https://aibusiness.com/document.asp?doc_id=761060](https://aibusiness.com/document.asp?doc_id=761060)
+[python library](https://aibusiness.com/document.asp?doc_id=761060)
 
 - Pandas 데이터 다루기
 - NumPy 수학
@@ -35,6 +35,10 @@
 
 ### SQL
 [sql을 공부해야하는 이유와 공부하는 방법](https://medium.com/@leejukyung/sql을-공부해야-하는-이유와-공부하는-방법-데이터분석가를-위한-기본지식-b49748e45f2b)
+
+### Deep learning
+
+- [머신러닝 플레이 리스트](https://youtube.com/playlist?list=PLVNY1HnUlO241gILgQloWAs0xrrkqQfKe)
 
 ### 데이터
 
