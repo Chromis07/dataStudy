@@ -29,7 +29,7 @@ plt.rc('font', family = 'NAnumBarunGothic')
 mglearn.plots.plot_knn_classification(n_neighbors=1) # 제일 근접한 1개 이웃 선택
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/681e43e9-dc20-4256-b5ac-ff42d71eafca/_(8).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/681e43e9-dc20-4256-b5ac-ff42d71eafca/_(8).png)
+
 
 ```python
 plt.figure(dpi= 100)
@@ -38,7 +38,6 @@ plt.rc('font', family = 'NAnumBarunGothic')
 mglearn.plots.plot_knn_classification(n_neighbors=3) # 제일 근접한 3개 이웃 선택
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6693c312-1682-4cfb-acf4-01ff88b5297c/_(9).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6693c312-1682-4cfb-acf4-01ff88b5297c/_(9).png)
 
 → KNN 중 이웃이 더 많은 클래스가 레이블로 지정
 
@@ -59,7 +58,6 @@ mglearn.plots.plot_knn_classification(n_neighbors=3) # 제일 근접한 3개 이
 - k=1의 경우 가장 가까운 이웃의 타겟값
 - k ≥ 2의 경우 회귀분석 → 여러개의 최근접 이웃 간의 평균이 예측 값
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f86917ff-355c-4e7c-b6cd-9d58e611dee0/_(11).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f86917ff-355c-4e7c-b6cd-9d58e611dee0/_(11).png)
 
 ### kNN 의 장단점
 
