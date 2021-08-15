@@ -12,6 +12,8 @@
 - 모델 설명
 - 수학 >> 선형대수 / 미분 / 통계
 
+[책 및 강의 추천](https://www.philgineer.com/2020/10/awesome-machine-learning.html)
+
 [https://www.youtube.com/user/joshstarmer](https://www.youtube.com/user/joshstarmer)
 
 ### 파이썬
